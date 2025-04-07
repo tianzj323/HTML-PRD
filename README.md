@@ -107,3 +107,11 @@ python md_to_pdf_with_mermaid.py input.md -o output.pdf
 - 支持基本Markdown转PDF功能
 - 添加Mermaid图表支持
 - 提供图形用户界面 
+### 1.1.0 (2023-07-15)
+- 更新转换引擎
+- 提高转换速度
+- 修复中文显示问题
+
+## 普拉提健身App原型设计
+
+本项目还包含了普拉提健身App的原型设计文件。
